@@ -1,2 +1,0 @@
-# Assignment
-all Assignment
